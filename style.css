@@ -1,0 +1,35 @@
+body {
+
+ font-family: 'Gentium Book Basic', serif;
+ color: #102340;
+
+}
+
+h1, h2, h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+h2 {font-weight: 300;
+  font-size: 15px;
+}
+
+.resize_img { width: 90px ; height: 90px}
+
+.centre_iconos {
+
+  display: block;
+  float: left;
+  width: 33.33%;
+  text-align: center;
+}
+
+p::first-letter {
+  color: #E87F0C;
+  font-size: 230%;
+}
+
+.intro {
+   text-align: center;
+   width: 60%;
+margin: 0 auto;
+/*background-color: red;*/
+ }
